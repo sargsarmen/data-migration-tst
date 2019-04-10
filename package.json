@@ -1,0 +1,16 @@
+{
+  "name": "dataowl-test",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.16.4",
+    "pg": "7.9.0",
+    "cron": "1.7.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
